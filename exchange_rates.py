@@ -1,6 +1,6 @@
 import requests
 
-api_key = "cc4f090534034bb98c9c5830b036de0c"
+api_key = "YOUR_API_KEY"
 symbols = "USD,RUB,EUR,CNY,TRY,GBP,CHF,JPY,AED,HKD,SGD"
 
 #Функция получения курса валют
